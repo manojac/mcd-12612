@@ -8,3 +8,5 @@ echo "file"
 echo "text"
 echo "tip"
 echo "print"
+echo
+
