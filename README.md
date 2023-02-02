@@ -1,9 +1,9 @@
 
 for practise
-echo
+echo "front"
 
 echo "pin"
-echo "heloo world"
+
 echo "file"
 echo "text"
 echo "tip"
