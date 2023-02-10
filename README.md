@@ -1,10 +1,5 @@
 
-for practise
-echo "front"
-
-echo "pin"
-
-echo "file"
+for pratise
 echo "text"
 echo "tip"
 echo "print"
