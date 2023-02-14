@@ -7,3 +7,5 @@ echo
 echo"file"
 echo l
 echo "print"
+echo"chutiya"
+
